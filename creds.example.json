@@ -1,0 +1,7 @@
+{
+  "gandi":{
+    "TYPE": "GANDI_V5",
+    "apikey": "api_key",
+    "sharing_id": "sharing_id"
+  }
+}
