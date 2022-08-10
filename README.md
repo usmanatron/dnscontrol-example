@@ -12,7 +12,7 @@ This repository shows you how to setup a basic DNSControl setup.  It uses made u
 ## Usage
 
 * Check that your provider is [supported](https://stackexchange.github.io/dnscontrol/provider-list)!
-* Fork this repository
+* Click on "Use this Template" to make a copy of this repository
 * Update `dnscontrol.js` to use your provider and include your domain records (using the migration guide linked below)
 * Rename `creds.example.json` to `creds.json` and update for your chosen provider **(DON'T COMMIT THIS)**
 * Use `dnscontrol preview` to check that everything is setup correctly - if you're simply migrating this shouldn't find any changes
